@@ -230,8 +230,6 @@ LASSO_tilda = np.dot(X, Lasso_regressor.coef_.transpose())
 MSE_function_LASSO = metrics.mean_squared_error(energies_vector, LASSO_tilda)
 print('====== MSE LASSO ======')
 print(MSE_function_LASSO)
->>>>>>> 7bd68f96f650829dc839689bbc22f1178ca4eff7
-
 
 print('LAMBDA')
 print(lamb)
