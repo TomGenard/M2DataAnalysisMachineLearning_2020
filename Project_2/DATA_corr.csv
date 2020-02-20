@@ -1,0 +1,10 @@
+, Mean of the integrated profile, Standard deviation of the integrated profile, Excess kurtosis of the integrated profile, Skewness of the integrated profile, Mean of the DM-SNR curve, Standard deviation of the DM-SNR curve, Excess kurtosis of the DM-SNR curve, Skewness of the DM-SNR curve,target_class
+ Mean of the integrated profile,1.0,0.55,-0.87,-0.74,-0.3,-0.31,0.23,0.14,-0.67
+ Standard deviation of the integrated profile,0.55,1.0,-0.52,-0.54,0.01,-0.05,0.03,0.03,-0.36
+ Excess kurtosis of the integrated profile,-0.87,-0.52,1.0,0.95,0.41,0.43,-0.34,-0.21,0.79
+ Skewness of the integrated profile,-0.74,-0.54,0.95,1.0,0.41,0.42,-0.33,-0.2,0.71
+ Mean of the DM-SNR curve,-0.3,0.01,0.41,0.41,1.0,0.8,-0.62,-0.35,0.4
+ Standard deviation of the DM-SNR curve,-0.31,-0.05,0.43,0.42,0.8,1.0,-0.81,-0.58,0.49
+ Excess kurtosis of the DM-SNR curve,0.23,0.03,-0.34,-0.33,-0.62,-0.81,1.0,0.92,-0.39
+ Skewness of the DM-SNR curve,0.14,0.03,-0.21,-0.2,-0.35,-0.58,0.92,1.0,-0.26
+target_class,-0.67,-0.36,0.79,0.71,0.4,0.49,-0.39,-0.26,1.0
